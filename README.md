@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/antigamer07" target="blank"><img src="https://img.shields.io/twitter/follow/antigamer07?logo=twitter&style=for-the-badge" alt="antigamer07" /></a> </p>
 
-- 🌱 I’m currently into **GenAI,Prompt Eng **
+- 🌱 I’m currently into **GenAI,Prompt Eng**
 
 - 📫 How to reach me **manobhiramgs@gmail.com**
 
